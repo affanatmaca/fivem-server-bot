@@ -20,7 +20,7 @@ This is a Discord bot written in Python using the `discord.py` library. The bot 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/fivem-server-bot.git
+    git clone https://github.com/affanatmaca/fivem-server-bot.git
     cd fivem-server-bot
     ```
 
