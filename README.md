@@ -41,3 +41,6 @@ This is a Discord bot written in Python using the `discord.py` library. The bot 
 Run the bot using:
 ```bash
 python main.py
+```
+
+This project is fully english. if you want lookup for turkish project check this link https://github.com/affanatmaca/fivem-server-bot-turkish/
